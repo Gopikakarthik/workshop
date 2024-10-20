@@ -256,7 +256,9 @@ AndroidManifest.xml:
 ###  OUTPUT:
 ![image](https://github.com/user-attachments/assets/00aeda43-0e96-4a00-a838-b9337cdb0a14)
 
-![image](https://github.com/user-attachments/assets/68c3271b-f979-4d65-aa83-f85f8e3d20ac)
+![image](https://github.com/user-attachments/assets/f70ef8ce-5e65-4abd-ae56-7f89d34777f5)
+
+
 
 ## RESULT:
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
