@@ -254,7 +254,8 @@ AndroidManifest.xml:
 </manifest>
 ```
 ###  OUTPUT:
-![image](https://github.com/user-attachments/assets/00aeda43-0e96-4a00-a838-b9337cdb0a14)
+![image](https://github.com/user-attachments/assets/2469b2cc-763d-4046-bdea-0ee7b87c3b99)
+
 
 ![image](https://github.com/user-attachments/assets/f70ef8ce-5e65-4abd-ae56-7f89d34777f5)
 
